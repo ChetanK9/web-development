@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>This is the revision of what is covered in the Module 1</title>
+</head>
+<body>
+<h1 id="top"; style="color: green; font-size: 60px; text-align: center;">Module 1</h1>
+<section>
+<ol>
+<li><a href="#section1">Section 1</a></li>
+</ol>
+</section>
+
+<section id="section1">
+<h/4>Thoughts of the day</h4>
+<h5>&quot;Don't be afraid to be &lt; than a 100% success &amp; &gt; more&quot;</h5>
+<h5>&quot;Wherever you go, no matter what the weather, always bring your own sunshine.&quot;</h5>
+</section>
+
+<section id="section2">
+<section>
+Section 1:
+<article>Article 1</article>
+<article>Article 2</article>
+</section>
+<section>
+Section 2:
+<article>Article 3</article>
+<article>Article 4</article>
+</section>
+</section>
+
+<hr>
+
+<section id="section3">
+<div>*** This is the use of DIV 1</div>
+<div>*** This is the use of DIV 2</div>
+<span>*** This is the use of Span 1</span>
+<span>*** This is the use of Span 2</span>
+<div>*** This is <span>Span in the div</span></div>
+</section>
+
+<hr>
+
+<section id="section4">
+<h2>Unordered Lists</h2>
+<div>
+Forts in Maharashatra:
+<ul>
+<li>Lohagad Fort, Lonavala</li>
+<li>Janjira Fort, Murud</li>
+<li>Forts in Pune
+	<ul>
+		<li>Shaniwarwada Fort, Pune</li>
+		<li>Sinhagad Fort, Pune</li>
+		<li>Rajmachi Fort, Pune</li>
+	</ul>
+</li>
+<li>Daulatabad Fort, Daulatabad</li>
+<li>Raigad Fort, Raigad</li>
+</div>
+</section>
+
+<hr>
+
+<section id="section5">
+<h1>Ordered list</h1>
+
+	Recipe of Maggie:
+    <ol>Prerequisites
+      <li>Maggie - One Packet</li>
+      <li>Water - A cup and a half</li>
+	</ol>
+	
+	<ol>Method:
+		<li>Take one and a half cup of water in a pan.</li>
+		<li>Heat the pan on medium flame.</li>
+		<li>When the water comes to boil, add the Noodles Cake to the pan.</li>
+		<li>Cover it with a lid for a minute</li>
+		<li>After a minute, uncover the lid and add the tastemaker to the pan</li>
+		<li>Mix it well</li>
+		<li>Without breaking the Noodles</li>
+		<li>Switch off the flame when all the Water boils.</li>
+		<li>Enjoy the hot Maggi in this lovely weather.!</li>
+	</ol>
+</section>
+
+<section id="section6">
+<h4 style="color: red;">Important Tutorial Links</h4>
+<ol>
+	<li><a href="https://www.w3schools.com/html/" target="_blank">Learn HTML</a>
+	<li><a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank">Learn C</a>
+	<li><a href="https://www.javatpoint.com/java-tutorial" target="_blank">Learn Java</a>
+</ol>
+
+<h4 style="color: blue;">Linking to same file in directory</h4>
+<div><a href="index.html">Click Here to redirect Index HTML file in directory</a></div>
+</section>
+
+<hr>
+
+<section id="section7">
+<div>Intenal Image Linking</div><br>
+<img src="Thank-You.JPG" width="200" height="200"><hr>
+
+<div>External Image Linking</div><br>
+<img src="https://thumbs.dreamstime.com/b/white-stone-words-thank-you-smile-face-color-glitter-boke-background-117350639.jpg" width="200" height="200"><hr>
+</section>
+
+<aside>This webpage is created by Chetan to revise what is learnt in Coursera Module 1 of HTML, CSS & Javascript</aside>
+
+<hr>
+<h5 style="color: green; text-align: center;"><a href="#top">Back to top</a></h5>
+<hr>
+
+<footer><marquee direction="right">CK Tech Copyright &copy; 2022</marquee></footer>
+
+</body>
+</html>
