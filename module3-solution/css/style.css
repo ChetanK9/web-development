@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: gray;
+color: #61122F;
+}
+
+body{
+	background-color: white;
+	color: black;
+}
+.glyphicon{
+	font-size: 30px;
+	color:black; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 40px;
+	margin-top: -50px;
+    margin-bottom: 30px;
+	font-weight: bold;
+}
+
+h2{
+	text-align: center;
+	font-weight: bold;
+    margin-top: 0;
+}
+#myNavbar ul li a {
+	color: black;
+	background-color: white;
+	text-align: center;
+}
+
+#myNavbar a:hover
+{
+	background-color: yellow;
+}	
+
+.navbar-brand
+{
+	font-size: 30px;
+}
+.navbar-inverse .navbar-brand {
+    color: black;
+	font-size: 1.9em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 5px;
+}
+
+@media (min-width: 1200px)
+{
+	#myNavbar ul li a
+	{
+		display: none;
+	}
+}
+@media (min-width: 480px) & (max-width: 768px)
+{
+	
+}
+		
