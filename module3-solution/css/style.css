@@ -45,11 +45,6 @@ h2{
 	background-color: white;
 	text-align: center;
 	border-bottom: 1px solid black;
-}
-
-#myNavbar a:hover
-{
-	background-color: yellow;
 }	
 
 .navbar-brand
