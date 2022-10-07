@@ -44,6 +44,7 @@ h2{
 	color: black;
 	background-color: white;
 	text-align: center;
+	border-bottom: 1px solid black;
 }
 
 #myNavbar a:hover
